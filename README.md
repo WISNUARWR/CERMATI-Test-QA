@@ -1,8 +1,8 @@
 # CERMATI-Test-QA
 ## Scenario Testing:
-* [•	As a user, I want to create a public gist.](https://github.com/datascienceid/README#branching)
-•	As a user, I want to create a public gist.
-•	As a user, I want to edit an existing gist.
+* [•	As a user, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
+* [•	As a user, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
+
 •	As a user, I want to delete an existing gist.
 
 # End to End (e2e) Step:
