@@ -11,7 +11,7 @@
 
 ## End to End (e2e) Step:
 ### CREATE a New Public Gist
-* [KATALON STUDIO AUTOMATION SCRIPT-Create](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-create-a-new-gist-katalon-studio-automation-script)
+* [KATALON STUDIO AUTOMATION SCRIPT - Create](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-create-a-new-gist-katalon-studio-automation-script)
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
 ```
@@ -86,7 +86,7 @@ WebUI.closeBrowser()
 ```
 
 ## EDIT Public Gist Existing
-* [KATALON STUDIO AUTOMATION SCRIPT-Edit](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-edit-gist-existing-katalon-studio-automation-script)
+* [KATALON STUDIO AUTOMATION SCRIPT - Edit](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-edit-gist-existing-katalon-studio-automation-script)
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 ```
 1.'OPEN BROWSER'
@@ -158,6 +158,7 @@ WebUI.delay(2)
 WebUI.closeBrowser()
 ```
 ## DELETE Public Gist Existing
+* [KATALON STUDIO AUTOMATION SCRIPT - Delete](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-delete-gist-existing-katalon-studio-automation-script)
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 ```
 1.'OPEN BROWSER'
