@@ -3,14 +3,14 @@
 * [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing)
 
 
-### Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:
+## Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:
 * [•	As a user, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
 * [•	As a user, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
 * [•	As a user, I want to delete an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
 
 
-# End to End (e2e) Step:
-## CREATE a New Public Gist
+## End to End (e2e) Step:
+### CREATE a New Public Gist
 ```
 1.'OPEN BROWSER'
 2.'NAVIGATE TO WEB PAGE'
