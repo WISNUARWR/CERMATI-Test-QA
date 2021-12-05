@@ -1,6 +1,6 @@
 # CERMATI-Test-QA
 * [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing)
-
+* [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing)
 
 
 ### Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:
@@ -205,7 +205,7 @@ WebUI.delay(4)
 WebUI.closeBrowser()
 ```
 
-
+### Q2-Find BUG and Mention all necessary fields || BUG:
 
 
 
