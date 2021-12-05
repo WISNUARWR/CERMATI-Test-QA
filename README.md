@@ -11,6 +11,7 @@
 
 ## End to End (e2e) Step:
 ### CREATE a New Public Gist
+* [back to up](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
 ```
 1.'OPEN BROWSER'
 2.'NAVIGATE TO WEB PAGE'
