@@ -1,8 +1,8 @@
 # CERMATI-Test-QA
-```
+--
 * [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing)
 
-```
+--
 
 ### Scenario Testing:
 * [•	As a user, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
