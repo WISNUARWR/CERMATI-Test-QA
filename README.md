@@ -11,7 +11,7 @@
 
 ## End to End (e2e) Step:
 ### CREATE a New Public Gist
-* [BACK](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
 ```
 1.'OPEN BROWSER'
 2.'NAVIGATE TO WEB PAGE'
