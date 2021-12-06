@@ -30,9 +30,8 @@
 15.'DELAY 2 SECOND'
 16'CLOSE BROWSER'
 
-* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 ```
-
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
 ### Script Create a new gist (KATALON STUDIO AUTOMATION SCRIPT)
 
