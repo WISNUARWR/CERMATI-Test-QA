@@ -4,14 +4,14 @@
 * [capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)
 
 
-## **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**
+# **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**
 * [•	As a user GITHUB, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
 * [•	As a user GITHUB, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
 * [•	As a user GITHUB, I want to delete an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
 
 
 ## End to End (e2e) Step:
-### CREATE a New Public Gist
+## CREATE a New Public Gist
 * [KATALON STUDIO AUTOMATION SCRIPT - Create](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-create-a-new-gist-katalon-studio-automation-script)
 ```
 1.'OPEN BROWSER'
@@ -34,7 +34,7 @@
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-### Script Create a new gist (KATALON STUDIO AUTOMATION SCRIPT)
+#### Script Create a new gist (KATALON STUDIO AUTOMATION SCRIPT)
 
 ```
 'OPEN BROWSER'
@@ -109,7 +109,7 @@ WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-### Script Edit gist existing (KATALON STUDIO AUTOMATION SCRIPT)
+#### Script Edit gist existing (KATALON STUDIO AUTOMATION SCRIPT)
 
 ```
 'OPEN BROWSER'
@@ -182,7 +182,7 @@ WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-### Script Delete gist existing (KATALON STUDIO AUTOMATION SCRIPT)
+#### Script Delete gist existing (KATALON STUDIO AUTOMATION SCRIPT)
 
 ```
 
@@ -224,14 +224,14 @@ WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-## **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
+# **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
 * [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null)
 * [• Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
 * [• Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
 
 
 
-### Text Case  "MANDATORY TEST - INPUT TEXT NULL"
+## Text Case  "MANDATORY TEST - INPUT TEXT NULL"
 * [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
 
 
@@ -276,6 +276,108 @@ WebUI.delay(2)
 WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)
+
+
+
+## Text Case  "MANDATORY TEST - Input text SPACE"
+* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
+
+
+#### Necessary fields which should be included in a bug.
+```
+• For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
+• For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
+```
+
+#### SCRIPT MANDATORY TEST - Input text SPACE
+
+```
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.shino.de/parkcalc/index.php')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'))
+
+WebUI.selectOptionByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false)
+
+WebUI.verifyOptionPresentByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false, 2)
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingDate'), ' ')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingDate'), ' ')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingTime'), ' ')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingTime'), ' ')
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_StartingTimeAMPM'))
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_LeavingTimeAMPM'))
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_0_Submit'))
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
+
+```
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)
+
+
+## Text Case  "MANDATORY TEST - Input text another format"
+* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
+
+#### Necessary fields which should be included in a bug.
+```
+• For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
+• For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
+• For Parameter Date and Time Start or Leave, there should be Pop Up Notification "MANDATORY and appropriate format".
+```
+
+#### SCRIPT MANDATORY TEST - Input text another format
+
+```
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.shino.de/parkcalc/index.php')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'))
+
+WebUI.selectOptionByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false)
+
+WebUI.verifyOptionPresentByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false, 2)
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingDate'), 'DARI SIANG')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingDate'), 'SAMPAI MALAM')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingTime'), 'JAM 1 SIANG')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingTime'), 'JAM 8 MALAM')
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_StartingTimeAMPM'))
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_LeavingTimeAMPM'))
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_0_Submit'))
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
+
+```
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)
+
 
 
 
