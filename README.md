@@ -338,7 +338,7 @@ WebUI.closeBrowser()
 
 
 ## Text Case  "MANDATORY TEST - Input text another format" ***BUG because PASSED***
-#####  *** [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-another-format)***
+#####  *** [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-another-format)***
 
 #### Necessary fields which should be included in a bug.
 ```
