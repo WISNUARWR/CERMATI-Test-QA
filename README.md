@@ -293,10 +293,8 @@ WebUI.closeBrowser()
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and MANDATORY fromat Input Text.
-
-OR
-
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
+• For Parameter Date and Time Start or Leave, there should be Pop Up Notification "MANDATORY and appropriate format".
 ```
 
 #### SCRIPT MANDATORY TEST - Input text SPACE
@@ -345,9 +343,6 @@ WebUI.closeBrowser()
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and MANDATORY fromat Input Text.
-
-OR
-
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
 • For Parameter Date and Time Start or Leave, there should be Pop Up Notification "MANDATORY and appropriate format".
 ```
