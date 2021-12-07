@@ -228,9 +228,9 @@ WebUI.closeBrowser()
 
 
 # **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
-* [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null)
-* [• Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-space)
-* [• Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-another-format)
+* [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null--bug-because-passed)
+* [• Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-space--bug-because-passed)
+* [• Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-another-format--bug-because-passed)
 
 
 
