@@ -15,7 +15,7 @@
 
 ## End to End (e2e) Step:
 ## CREATE a New Public Gist
-##### * ***[KATALON STUDIO AUTOMATION SCRIPT - Create](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-create-a-new-gist-katalon-studio-automation-script)***
+##### ***[KATALON STUDIO AUTOMATION SCRIPT - Create](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-create-a-new-gist-katalon-studio-automation-script)***
 ```
 1.'OPEN BROWSER'
 2.'NAVIGATE TO WEB PAGE'
