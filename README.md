@@ -280,7 +280,7 @@ WebUI.closeBrowser()
 
 
 ## Text Case  "MANDATORY TEST - Input text SPACE"
-* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
+* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-space)
 
 
 #### Necessary fields which should be included in a bug.
@@ -330,7 +330,7 @@ WebUI.closeBrowser()
 
 
 ## Text Case  "MANDATORY TEST - Input text another format"
-* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
+* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE]()
 
 #### Necessary fields which should be included in a bug.
 ```
