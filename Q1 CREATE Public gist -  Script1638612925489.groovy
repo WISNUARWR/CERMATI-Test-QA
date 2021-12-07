@@ -34,7 +34,7 @@ WebUI.setText(findTestObject('GISTGITHUB-OBJECT/Page_INPUT Sign in to GitHub Git
     'WISNUARWR')
 
 'INPUT PASSWORD'
-WebUI.setText(findTestObject('GISTGITHUB-OBJECT/Page_INPUT Sign in to GitHub GitHub/input_Password_password'), 'War12122014')
+WebUI.setText(findTestObject('GISTGITHUB-OBJECT/Page_INPUT Sign in to GitHub GitHub/input_Password_password'), 'Www5432167890')
 
 'CLICK BUTTON SIGNIN FOR COMMIT USERNAME AND PASSWORD'
 WebUI.click(findTestObject('GISTGITHUB-OBJECT/Page_INPUT Sign in to GitHub GitHub/input_Password_commit'))
