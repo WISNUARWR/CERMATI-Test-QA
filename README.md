@@ -234,7 +234,7 @@ WebUI.closeBrowser()
 
 
 
-## Text Case  "MANDATORY TEST - INPUT TEXT NULL"
+## Text Case  "MANDATORY TEST - INPUT TEXT NULL"  ***BUG because PASSED***
 * [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
 
 
@@ -282,13 +282,14 @@ WebUI.closeBrowser()
 
 
 
-## Text Case  "MANDATORY TEST - Input text SPACE"
+## Text Case  "MANDATORY TEST - Input text SPACE" ***BUG because PASSED***
 * [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-space)
 
 
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
+***OR***
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
 ```
 
@@ -332,12 +333,13 @@ WebUI.closeBrowser()
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)
 
 
-## Text Case  "MANDATORY TEST - Input text another format"
+## Text Case  "MANDATORY TEST - Input text another format" ***BUG because PASSED***
 * [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-another-format)
 
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
+***OR***
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
 • For Parameter Date and Time Start or Leave, there should be Pop Up Notification "MANDATORY and appropriate format".
 ```
