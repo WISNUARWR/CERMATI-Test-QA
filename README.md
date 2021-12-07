@@ -390,8 +390,8 @@ WebUI.closeBrowser()
 
 # **Q3-API TESTING || Scenario Testing:**
 
-* [•	How many data entries are available for the category - Animals] (https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#how-many-data-entries-are-available-for-the-category---animals)
-* [•	Return the link/URL of any website related to holidays] ()
+* [•	How many data entries are available for the category - Animals](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
+* [•	Return the link/URL of any website related to holidays](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
 
 
 ## How many data entries are available for the category - Animals
