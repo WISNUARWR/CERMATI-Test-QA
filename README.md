@@ -231,6 +231,8 @@ WebUI.closeBrowser()
 
 
 ### Text Case  "MANDATORY TEST - INPUT TEXT NULL"
+* [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)
+
 
 #### Necessary fields which should be included in a bug.
 ```
