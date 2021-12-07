@@ -1,12 +1,12 @@
 # **CERMATI-Test-QA**
-* [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing).  
+* [Q1-Create, Edit and Delete Public Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing).  
 
 * [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  
 
 * [Q3 CAPTURE API TESTING](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing).
  
 
-# **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**  
+# **Q1-Create, Edit and Delete Public Gits || Scenario Testing:**  
 ##### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***
 #### [• As a user GITHUB, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
 #### [• As a user GITHUB, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
