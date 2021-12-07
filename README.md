@@ -1,6 +1,6 @@
 # **CERMATI-Test-QA**
 * [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing)
-* ![This is an image](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)
+* __***![This is an image](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***__
 * [Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)
 
 
