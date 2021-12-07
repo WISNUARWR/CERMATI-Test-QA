@@ -35,7 +35,7 @@
 16'CLOSE BROWSER'
 
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Create a new gist (KATALON STUDIO AUTOMATION SCRIPT)
 
@@ -88,10 +88,10 @@ WebUI.delay(2)
 'CLOSE BROWSER'
 WebUI.closeBrowser()
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 ## EDIT Public Gist Existing
-##### * ***[KATALON STUDIO AUTOMATION SCRIPT - Edit](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-edit-gist-existing-katalon-studio-automation-script)***
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - Edit](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-edit-gist-existing-katalon-studio-automation-script)***
 
 ```
 1.'OPEN BROWSER'
@@ -110,7 +110,7 @@ WebUI.closeBrowser()
 14.'DELAY 2 SECOND'
 15.'CLOSE BROWSER'
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Edit gist existing (KATALON STUDIO AUTOMATION SCRIPT)
 
@@ -163,11 +163,11 @@ WebUI.delay(2)
 'CLOSE BROWSER'
 WebUI.closeBrowser()
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 
 ## DELETE Public Gist Existing
-##### * ***[KATALON STUDIO AUTOMATION SCRIPT - Delete](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-delete-gist-existing-katalon-studio-automation-script)***
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - Delete](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-delete-gist-existing-katalon-studio-automation-script)***
 
 ```
 1.'OPEN BROWSER'
@@ -183,7 +183,7 @@ WebUI.closeBrowser()
 11.'DELAY 4 SECOND FOR VIEW UPDATE LIST GIST EXISTING'
 12.'CLOSE BROWSER'
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Delete gist existing (KATALON STUDIO AUTOMATION SCRIPT)
 
@@ -225,8 +225,8 @@ WebUI.delay(4)
 'CLOSE BROWSER'
 WebUI.closeBrowser()
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
-##### * ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
+#####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
 
 
 
@@ -239,7 +239,7 @@ WebUI.closeBrowser()
 
 
 ## Text Case  "MANDATORY TEST - INPUT TEXT NULL"  ***BUG because PASSED***
-##### * ***[KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)***
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - INPUT TEXT NULL](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-null)***
 
 
 #### Necessary fields which should be included in a bug.
@@ -282,12 +282,12 @@ WebUI.delay(2)
 
 WebUI.closeBrowser()
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
 
 
 
 ## Text Case  "MANDATORY TEST - Input text SPACE" ***BUG because PASSED***
-##### * ***[KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-space)***
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-space)***
 
 
 #### Necessary fields which should be included in a bug.
@@ -334,11 +334,11 @@ WebUI.delay(2)
 WebUI.closeBrowser()
 
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
 
 
 ## Text Case  "MANDATORY TEST - Input text another format" ***BUG because PASSED***
-##### * *** [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-another-format)***
+#####  *** [KATALON STUDIO AUTOMATION SCRIPT - MANDATORY TEST - Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-mandatory-test---input-text-another-format)***
 
 #### Necessary fields which should be included in a bug.
 ```
@@ -385,8 +385,8 @@ WebUI.delay(2)
 WebUI.closeBrowser()
 
 ```
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
-##### * ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)***
+#####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
 
 
 
@@ -412,9 +412,9 @@ WebUI.closeBrowser()
 9. Click Button + Create a new tab
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
-### * ***![Click Here for API Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)***
+#####  ***![Click Here for API Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)***
  
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)***
 
 ## Return the link/URL of any website related to holidays
 ### Step for API Testing:
@@ -433,8 +433,8 @@ WebUI.closeBrowser()
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
 
-### * ***![Click Here for API Test Capture - HOLIDAYS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)***
+#####  ***![Click Here for API Test Capture - HOLIDAYS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)***
 
-##### * ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)***
-##### * ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)***
+#####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
 
