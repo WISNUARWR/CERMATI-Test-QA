@@ -3,7 +3,7 @@
 
 * [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  *![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)*
 
-* [Q3 CAPTURE API TESTING]().
+* [Q3 CAPTURE API TESTING](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing).
  
 
 # **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**
@@ -390,7 +390,7 @@ WebUI.closeBrowser()
 
 # **Q3-API TESTING || Scenario Testing:**
 
-* [•	How many data entries are available for the category - Animals] ()
+* [•	How many data entries are available for the category - Animals] (https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#how-many-data-entries-are-available-for-the-category---animals)
 * [•	Return the link/URL of any website related to holidays] ()
 
 
@@ -411,7 +411,32 @@ WebUI.closeBrowser()
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
 * ![Click Here for APT Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)*
+```
+ 
+```
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
 
-* [BACK to Scenario]()
+## Return the link/URL of any website related to holidays
+### Step for API Testing:
+```
+1. Open POSTMAN APP
+2. Login POSTMAN if you have account
+3. Click menu workspace
+4. Click button Create a new workspace if you don't have a workspace
+5. INPUT TEXT:
+	- Name workspace
+	- Summary
+6. Choose Visibility: (Personal, Private, Team, Public)
+7. Click button Create workspace
+8. Click Button + Create a new collection
+9. Click Button + Create a new tab
+10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
+```
 
+* ![Click Here for APT Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)*
+```
+ 
+```
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
+* [BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
 
