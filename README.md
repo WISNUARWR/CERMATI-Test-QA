@@ -293,7 +293,9 @@ WebUI.closeBrowser()
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
-***OR***
+
+_OR_
+
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
 ```
 
@@ -343,7 +345,7 @@ WebUI.closeBrowser()
 #### Necessary fields which should be included in a bug.
 ```
 • For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
-***OR***
+_OR_
 • For Parameter Date and Time Start or Leave, should be VALIDATION for appropriate format.
 • For Parameter Date and Time Start or Leave, there should be Pop Up Notification "MANDATORY and appropriate format".
 ```
