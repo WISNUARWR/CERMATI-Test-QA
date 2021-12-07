@@ -411,9 +411,7 @@ WebUI.closeBrowser()
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
 * ![Click Here for APT Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)*
-```
  
-```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
 
 ## Return the link/URL of any website related to holidays
@@ -434,9 +432,7 @@ WebUI.closeBrowser()
 ```
 
 * ![Click Here for APT Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)*
-```
- 
-```
+
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
 * [BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
 
