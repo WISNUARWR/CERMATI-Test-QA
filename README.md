@@ -410,7 +410,7 @@ WebUI.closeBrowser()
 9. Click Button + Create a new tab
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
-* ![Click Here for API Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)*
+* ***![Click Here for API Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/1)***
  
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
 
@@ -431,7 +431,7 @@ WebUI.closeBrowser()
 10. Next Step you can see the Capture "Click Text Link "Click Here for APT Test Capture"
 ```
 
-* ![Click Here for API Test Capture - ANIMALS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)*
+* ***![Click Here for API Test Capture - HOLIDAYS](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/4)***
 
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)
 * [BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)
