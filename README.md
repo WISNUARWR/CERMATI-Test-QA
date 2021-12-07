@@ -223,7 +223,54 @@ WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-### Q2-Find BUG and Mention all necessary fields || BUG:
+## Q2-Find BUG and Mention all necessary fields || BUG:
+* [• MANDATORY TEST - Input text null](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
+* [• Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
+* [• Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
+
+
+
+### Text Case  "MANDATORY TEST - INPUT TEXT NULL"
+```
+1. For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
+2.
+
+```
+
+#### SCRIPT MANDATORY TEST - INPUT TEXT NULL 
+```
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.shino.de/parkcalc/index.php')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'))
+
+WebUI.selectOptionByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false)
+
+WebUI.verifyOptionPresentByLabel(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/DROP DOWN BUTTON CHOOSE PARKING LOT'), 
+    'Economy Parking', false, 2)
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingDate'), '')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingDate'), '')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_StartingTime'), '')
+
+WebUI.setText(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_AMPM_LeavingTime'), '')
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_StartingTimeAMPM'))
+
+WebUI.check(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/AMPM RADIO BUTTON START TIME/RADIO BUTTON START PM AND LEAVE PM/input_AMPM_LeavingTimeAMPM'))
+
+WebUI.click(findTestObject('PARKCALC-OBJECT/Page_Parking Cost Calculator/input_0_Submit'))
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
+```
 
 
 
