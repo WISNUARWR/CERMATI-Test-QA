@@ -8,9 +8,9 @@
 
 # **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**  
 ##### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***
-### [• As a user GITHUB, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
-### [• As a user GITHUB, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
-### [• As a user GITHUB, I want to delete an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
+#### [• As a user GITHUB, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
+#### [• As a user GITHUB, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
+#### [• As a user GITHUB, I want to delete an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
 
 
 ## End to End (e2e) Step:
@@ -232,9 +232,9 @@ WebUI.closeBrowser()
 
 # **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
 ##### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)***
-### [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null--bug-because-passed)
-### [• Test Case "Input text SPACE"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-space-bug-because-passed)
-### [• Test Case "Input text another format"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-another-format-bug-because-passed)
+#### [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null--bug-because-passed)
+#### [• Test Case "Input text SPACE"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-space-bug-because-passed)
+#### [• Test Case "Input text another format"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-another-format-bug-because-passed)
 
 
 
@@ -392,8 +392,8 @@ WebUI.closeBrowser()
 
 # **Q3-API TESTING || Scenario Testing:**
 
-### [• How many data entries are available for the category - Animals](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#how-many-data-entries-are-available-for-the-category---animals)
-### [• Return the link/URL of any website related to holidays](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#return-the-linkurl-of-any-website-related-to-holidays)
+#### [• How many data entries are available for the category - Animals](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#how-many-data-entries-are-available-for-the-category---animals)
+#### [• Return the link/URL of any website related to holidays](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#return-the-linkurl-of-any-website-related-to-holidays)
 
 
 ## How many data entries are available for the category - Animals
