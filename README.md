@@ -1,11 +1,7 @@
 # **CERMATI-Test-QA**
-* [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing). *Show Capture* ***![Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***
+* [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing).  *![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)*
 
-* [Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)
-
-
-* [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing)
-* [Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)
+* [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  *![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)*
 
 
 # **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**
