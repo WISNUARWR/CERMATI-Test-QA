@@ -223,7 +223,7 @@ WebUI.closeBrowser()
 ```
 * [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
-## **Q2-Find BUG and Mention all necessary fields || BUG:**
+## **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
 * [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null)
 * [• Input text SPACE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
 * [• Input text another format](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
@@ -240,6 +240,7 @@ WebUI.closeBrowser()
 ```
 
 #### SCRIPT MANDATORY TEST - INPUT TEXT NULL 
+
 ```
 WebUI.openBrowser('')
 
@@ -273,7 +274,7 @@ WebUI.delay(2)
 
 WebUI.closeBrowser()
 ```
-
+* [BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)
 
 
 
