@@ -38,7 +38,7 @@
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Create a new gist (KATALON STUDIO AUTOMATION SCRIPT)
-
+#####  ***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q1%20CREATE%20Public%20gist%20-%20%20Script1638612925489.groovy)***
 ```
 'OPEN BROWSER'
 WebUI.openBrowser('')
@@ -113,7 +113,7 @@ WebUI.closeBrowser()
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Edit gist existing (KATALON STUDIO AUTOMATION SCRIPT)
-
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q1%20EDIT%20Public%20gist%20-%20Script1638612969126.groovy)***_
 ```
 'OPEN BROWSER'
 WebUI.openBrowser('')
@@ -186,7 +186,7 @@ WebUI.closeBrowser()
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q1-create-edit-and-delete-public-gits--scenario-testing)***
 
 #### Script Delete gist existing (KATALON STUDIO AUTOMATION SCRIPT)
-
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q1%20DELETE%20Public%20gist%20%20-%20Script1638613009749.groovy)***_
 ```
 
 'OPEN BROWSER'
