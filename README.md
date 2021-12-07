@@ -231,10 +231,10 @@ WebUI.closeBrowser()
 
 
 ### Text Case  "MANDATORY TEST - INPUT TEXT NULL"
-```
-1. For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
-2.
 
+#### Necessary fields which should be included in a bug.
+```
+• For Parameter Date and Time Start or Leave, should be MANDATORY and DISABLE Input Text.
 ```
 
 #### SCRIPT MANDATORY TEST - INPUT TEXT NULL 
