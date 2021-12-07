@@ -1,12 +1,13 @@
 # **CERMATI-Test-QA**
 * [Q1-Create-Edit-and-Delete-Public-Gits](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#scenario-testing).  
 
-* [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  *![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)*
+* [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  
 
 * [Q3 CAPTURE API TESTING](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing).
  
 
-# **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**  #### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***
+# **Q1-Create-Edit-and-Delete-Public-Gits || Scenario Testing:**  
+#### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/2)***
 * [•	As a user GITHUB, I want to create a public gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#create-a-new-public-gist)
 * [•	As a user GITHUB, I want to edit an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#edit-public-gist-existing)
 * [•	As a user GITHUB, I want to delete an existing gist.](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#delete-public-gist-existing)
@@ -230,6 +231,7 @@ WebUI.closeBrowser()
 
 
 # **Q2-Find BUG and Mention all necessary fields ||Scenario Testing:**
+#### ***![Click Here for Regression Test Capture](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/3)***
 * [• Test Case "MANDATORY TEST - Input text null"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-null--bug-because-passed)
 * [• Test Case "Input text SPACE"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-space-bug-because-passed)
 * [• Test Case "Input text another format"](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#text-case--mandatory-test---input-text-another-format-bug-because-passed)
