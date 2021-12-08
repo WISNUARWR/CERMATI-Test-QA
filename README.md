@@ -466,7 +466,7 @@ WebUI.closeBrowser()
 ```
 
 #### Script Registration for Cermati Account
-#####  _***[GROOVY FILE]()***_
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q4%20-%20Script1638934402444.groovy)***_
 ```
 
 WebUI.openBrowser('')
@@ -505,7 +505,7 @@ WebUI.delay(2)
 
 
 ```
-#####  ***![Click Here for API Test Capture - HOLIDAYS]()***
+#####  ***![Click Here for Regression Test - Registration for Cermati Account](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/5)***
 
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q4-positive-test-registration-for-cermati-account--positive-scenarion--scenario-testing)***
 #####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
