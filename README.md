@@ -5,7 +5,7 @@
 
 * [Q3 CAPTURE API TESTING](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing).
 
-* [Q4 Positive Test Registration for Cermati Account- Positive Scenarion]().
+* [Q4 Positive Test Registration for Cermati Account- Positive Scenarion](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q4-positive-test-registration-for-cermati-account--positive-scenarion--scenario-testing).
  
 
 # **Q1-Create, Edit and Delete Public Gits || Scenario Testing:**  
@@ -442,10 +442,10 @@ WebUI.closeBrowser()
 
 # **Q4 Positive Test Registration for Cermati Account- Positive Scenarion || Scenario Testing:**
 
-#### [• Registration for Cermati Account]()
+#### [• Registration for Cermati Account](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#registration-for-cermati-account)
 
 ## Registration for Cermati Account
-#####  ***[KATALON STUDIO AUTOMATION SCRIPT - Registration for Cermati Account]()***
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - Registration for Cermati Account](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#script-registration-for-cermati-account)***
 ```
 1.'OPEN BROWSER'
 2.'NAVIGATE TO WEB PAGE REGISTRATION'
@@ -507,5 +507,5 @@ WebUI.delay(2)
 ```
 #####  ***![Click Here for API Test Capture - HOLIDAYS]()***
 
-#####  ***[BACK to Scenario]()***
+#####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q4-positive-test-registration-for-cermati-account--positive-scenarion--scenario-testing)***
 #####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
