@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Q4 Regression Positive Scenario Testing,Chrome 96.0.4664.45,,,2021-12-08 16:59:24,2021-12-08 16:59:44,19.836s,PASSED
+,,,,,,,
+Test Cases/Q4-TC001-AUTOMATION POSITIVE TESTING-,Chrome 96.0.4664.45,,,2021-12-08 16:59:24,2021-12-08 16:59:44,19.615s,PASSED
+"openBrowser("""")",Chrome 96.0.4664.45,,,2021-12-08 16:59:25,2021-12-08 16:59:27,2.222s,PASSED
+"navigateToUrl(""https://www.cermati.com/gabung-v2?"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:27,2021-12-08 16:59:30,3.468s,PASSED
+maximizeWindow(),Chrome 96.0.4664.45,,,2021-12-08 16:59:30,2021-12-08 16:59:31,0.157s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__email""), ""wisnuadiramadhan.12@gmail.com"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:31,2021-12-08 16:59:31,0.813s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__password""), ""Www5432167890"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:31,2021-12-08 16:59:32,0.808s,PASSED
+"click(findTestObject(""CERMATI-JOINT-OBJECT/Page_EYE PASS/i__fa fa-eye-slash icon-eye""))",Chrome 96.0.4664.45,,,2021-12-08 16:59:32,2021-12-08 16:59:33,0.519s,PASSED
+delay(2),Chrome 96.0.4664.45,,,2021-12-08 16:59:33,2021-12-08 16:59:35,2.025s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__confirmPassword""), ""Www5432167890"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:35,2021-12-08 16:59:35,0.690s,PASSED
+"click(findTestObject(""Page_Eye Confrm-Pass/i__fa fa-eye-slash icon-eye""))",Chrome 96.0.4664.45,,,2021-12-08 16:59:35,2021-12-08 16:59:36,0.387s,PASSED
+delay(2),Chrome 96.0.4664.45,,,2021-12-08 16:59:36,2021-12-08 16:59:38,2.015s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__firstName""), ""WISNU"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:38,2021-12-08 16:59:38,0.663s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__lastName""), ""AR"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:38,2021-12-08 16:59:39,0.688s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__mobilePhone""), ""081296071105"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:39,2021-12-08 16:59:40,0.698s,PASSED
+"setText(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity""), ""KOTA JAKARTA SELATAN"")",Chrome 96.0.4664.45,,,2021-12-08 16:59:40,2021-12-08 16:59:41,0.728s,PASSED
+"check(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity""))",Chrome 96.0.4664.45,,,2021-12-08 16:59:41,2021-12-08 16:59:42,1.051s,PASSED
+"click(findTestObject(""CERMATI-JOINT-OBJECT/Page_1638934811147/button_Daftar Akun""))",Chrome 96.0.4664.45,,,2021-12-08 16:59:42,2021-12-08 16:59:42,0.390s,PASSED
+delay(2),Chrome 96.0.4664.45,,,2021-12-08 16:59:42,2021-12-08 16:59:44,2.011s,PASSED
