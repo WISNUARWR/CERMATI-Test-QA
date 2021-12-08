@@ -17,3 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.cermati.com/gabung-v2?')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__email'), 'wisnuadiramadhan.12@gmail.com')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__password'), 'Www5432167890')
+
+WebUI.click(findTestObject('CERMATI-JOINT-OBJECT/Page_EYE PASS/i__fa fa-eye-slash icon-eye'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__confirmPassword'), 'Www5432167890')
+
+WebUI.click(findTestObject('Page_Eye Confrm-Pass/i__fa fa-eye-slash icon-eye'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__firstName'), 'WISNU')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__lastName'), 'AR')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__mobilePhone'), '081296071105')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity'), 'KOTA JAKARTA SELATAN')
+
+WebUI.check(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity'))
+
+WebUI.click(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/button_Daftar Akun'))
+
+WebUI.delay(2)
