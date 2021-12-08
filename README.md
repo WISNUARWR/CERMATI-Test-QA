@@ -4,6 +4,8 @@
 * [Q2-Find BUG and Mention all necessary fields](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q2-find-bug-and-mention-all-necessary-fields-scenario-testing).  
 
 * [Q3 CAPTURE API TESTING](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing).
+
+* [Q4 Positive Test Registration for Cermati Account- Positive Scenarion]().
  
 
 # **Q1-Create, Edit and Delete Public Gits || Scenario Testing:**  
@@ -436,4 +438,15 @@ WebUI.closeBrowser()
 
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q3-api-testing--scenario-testing)***
 #####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
+
+
+# **Q4 Positive Test Registration for Cermati Account- Positive Scenarion || Scenario Testing:**
+
+#### [• Registration for Cermati Account]()
+
+
+
+
+
+
 
