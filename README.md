@@ -506,6 +506,7 @@ WebUI.delay(2)
 
 ```
 #####  ***![Click Here for Regression Test - Registration for Cermati Account](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/5)***
+#####  ***![Click Here for Regression Test - CAPTURE VERIFY ACCOUNT REGISTRATION](https://github.com/WISNUARWR/CERMATI-Test-QA/issues/6)***
 
 #####  ***[BACK to Scenario](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#q4-positive-test-registration-for-cermati-account--positive-scenarion--scenario-testing)***
 #####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
