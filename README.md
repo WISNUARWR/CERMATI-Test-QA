@@ -444,9 +444,68 @@ WebUI.closeBrowser()
 
 #### [• Registration for Cermati Account]()
 
+## Registration for Cermati Account
+#####  ***[KATALON STUDIO AUTOMATION SCRIPT - Registration for Cermati Account]()***
+```
+1.'OPEN BROWSER'
+2.'NAVIGATE TO WEB PAGE REGISTRATION'
+3.'MAXIMIZE WINDOW WEB PAGE'
+4.'INPUT TEXT EMAIL'
+5.'INPUT PASSWORD'
+6.'INPUT CONFIRM PASSWORD'
+7.'INPUT TEXT FIRST NAME'
+8.'INPUT TEXT LAST NAME'
+9.'INPUT TEXT MOBILE PHONE NUMBER'
+10.'INPUT TEXT RESIDENCE CITY'
+11.'CHECK BUTTON AGREEMENT'
+12.'CLICK REGISTRATION ACCOUNT BUTTON'
+13.'CHECK INBOX EMAIL FOR VERIFY REGISTRATION'
+14.'INPUT OTP'
+15. 'CLICK B UTTON SUBMIT'
+
+```
+
+#### Script Registration for Cermati Account
+#####  _***[GROOVY FILE]()***_
+```
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.cermati.com/gabung-v2?')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__email'), 'wisnuadiramadhan.12@gmail.com')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_OBJECTCermati.com/input__password'), 'Www5432167890')
+
+WebUI.click(findTestObject('CERMATI-JOINT-OBJECT/Page_EYE PASS/i__fa fa-eye-slash icon-eye'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__confirmPassword'), 'Www5432167890')
+
+WebUI.click(findTestObject('Page_Eye Confrm-Pass/i__fa fa-eye-slash icon-eye'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__firstName'), 'WISNU')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__lastName'), 'AR')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__mobilePhone'), '081296071105')
+
+WebUI.setText(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity'), 'KOTA JAKARTA SELATAN')
+
+WebUI.check(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/input__residenceCity'))
+
+WebUI.click(findTestObject('CERMATI-JOINT-OBJECT/Page_1638934811147/button_Daftar Akun'))
+
+WebUI.delay(2)
 
 
+```
+#####  ***![Click Here for API Test Capture - HOLIDAYS]()***
 
-
-
-
+#####  ***[BACK to Scenario]()***
+#####  ***[BACK to TOP](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/README.md#cermati-test-qa)***
