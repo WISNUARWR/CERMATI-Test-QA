@@ -250,7 +250,7 @@ WebUI.closeBrowser()
 ```
 
 #### SCRIPT MANDATORY TEST - INPUT TEXT NULL 
-
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q2%20Input%20Text%20Null%20-%20Script1638774604092.groovy)***_
 ```
 WebUI.openBrowser('')
 
@@ -300,7 +300,7 @@ WebUI.closeBrowser()
 ```
 
 #### SCRIPT MANDATORY TEST - Input text SPACE
-
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q2%20Input%20Text%20Space%20-%20%20Script1638774541484.groovy)***_
 ```
 
 WebUI.openBrowser('')
@@ -350,7 +350,7 @@ WebUI.closeBrowser()
 ```
 
 #### SCRIPT MANDATORY TEST - Input text another format
-
+#####  _***[GROOVY FILE](https://github.com/WISNUARWR/CERMATI-Test-QA/blob/main/Q2%20Input%20Text%20Another%20Format%20-%20Script1638774573240.groovy)***_
 ```
 
 WebUI.openBrowser('')
